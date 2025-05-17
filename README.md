@@ -2,10 +2,10 @@
 
 ## Team Information
 - **Team Members**:  
-  - Marwan Osama - 20220324
-  - Ammar – ID2  
-  - Ahmed – ID3  
-  - Rana Esmail – 20220131
+  - Marwan Osama          : 20220324
+  - Ammar Mohamed Mahmoud : 20220216  
+  - Ahmed Abdelaziz       : 20220025
+  - Rana Esmail           : 20220131
 
 ## Project Description
 This project investigates the performance of different ANN and CNN architectures on the MNIST dataset using Keras (TensorFlow backend). We experimented with various hyperparameters and model structures to evaluate their impact on training/testing performance, accuracy, and efficiency.
@@ -49,8 +49,8 @@ For each model, we recorded:
 - Dropout: ≤ 85%
 
 ## File Structure
-- `20220324_id2_id3_20220131.ipynb`: Complete notebook with all model implementations and outputs
-- `20220324_id2_id3_20220131.pdf`: Full report including model configurations, analysis, and observations
+- `20220324_20220216_20220025_20220131.ipynb`: Complete notebook with all model implementations and outputs
+- `20220324_20220216_20220025_20220131.pdf`: Full report including model configurations, analysis, and observations
 
 ## How to Run
 1. Open the notebook in Google Colab.
